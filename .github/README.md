@@ -14,7 +14,7 @@ Move-Item $env:LOCALAPPDATA\nvim-data $env:LOCALAPPDATA\nvim-data.astro
 #### Clone the repository
 
 ```shell
-git clone --depth 1 https://github.com/postcypunk/astronvim $env:LOCALAPPDATA\nvim nvim
+git clone --depth 1 https://github.com/postcypunk/astronvim $env:LOCALAPPDATA\nvim
 ```
 
 #### Start Neovim
