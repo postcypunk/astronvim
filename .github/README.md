@@ -17,7 +17,7 @@ git clone --depth 1 https://github.com/AstroNvim/AstroNvim $env:LOCALAPPDATA\nvi
 ```
 
 ```shell
-git clone --depth 1 https://github.com/postcypunk/astronvim $env:LOCALAPPDATA\nvim\lua\user
+git clone https://github.com/postcypunk/astronvim $env:LOCALAPPDATA\nvim\lua\user
 ```
 
 #### Start Neovim
